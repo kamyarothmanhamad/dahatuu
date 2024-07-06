@@ -37,22 +37,6 @@
 
 
 
-## Fields of study
-
-China offers a vast array of fields of study, including:
-
-- Science and Engineering
-- Medicine and Health Sciences
-- Economics and Management
-- Law
-- Education
-- Literature and Languages
-- History and Philosophy
-- Arts and Design
-- Agriculture
-- Military Science[1]
-
-Chinese universities are particularly renowned for their programs in STEM fields (Science, Technology, Engineering, and Mathematics), with many institutions ranking highly in global subject rankings for these areas.
 
 
 ## بوارەکانی خوێندن
