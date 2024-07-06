@@ -115,7 +115,7 @@
 
 
 
-Citations:
+سەرچاوەەکان:
 [1] https://en.wikipedia.org/wiki/Higher_education_in_China
 [2] https://asem-education.org/compendiums/china/
 [3] https://www.educations.com/study-guides/asia/study-in-china/education-system-3968
