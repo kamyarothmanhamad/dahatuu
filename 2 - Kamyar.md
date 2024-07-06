@@ -7,19 +7,6 @@
 
 سیستەمی خوێندنی باڵای چین فرەچەشنە و پێکهاتووە لە چەند جۆرێک دامەزراوە:
 
-1. **Regular universities and colleges**: These offer a wide range of academic programs across various disciplines[1].
-
-2. **Research universities**: Part of the prestigious "Project 985" and "Project 211" initiatives, these institutions focus on advanced research and are often considered China's top universities.
-
-3. **Specialized institutions**: These focus on specific fields such as medicine, engineering, or agriculture.
-
-4. **Vocational colleges**: Offering practical, career-oriented programs, these institutions provide specialized technical education[3].
-
-5. **Private universities**: While fewer in number, these institutions are growing and offer an alternative to public universities[3].
-
-6. **Sino-foreign cooperative institutions**: These are joint ventures between Chinese and foreign universities, offering unique international perspectives.
-
-
 
 ### زانکۆ گشتییەکان
 ئەمانە بەناوبانگترین و باشترین دامەزراوەکانن لە چین. ئەمانە کۆمەڵێکی فراوان لە پڕۆگرامی ئەکادیمی لە بوارە جیاوازەکان پێشکەش دەکەن. و دەشێ پۆلێن کاری جیاوازیان بۆ بکرێت. لەوانە:
@@ -28,7 +15,8 @@
 - زانکۆکانی پڕۆژەی 211: زیاتر لە 100 زانکۆی گرنگ کە ئامانجیان بەرزکردنەوەی پێوەرەکانی خوێندنە.
 
 
-### زانکۆ تایبەتمەندەکان: تەرکیز دەکەنە سەر بوارە دیاریکراوەکان وەک تەکنەلۆژیا، پزیشکی، کشتوکاڵ، یان ئابووری. ئەم زانکۆیانە ڕاهێنانی تایبەتمەند لە بوارەکانی خۆیاندا پێشکەش دەکەن. نموونەکان بریتین لە زانکۆی تەکنەلۆژیای پەکینBeijing University of Technology و زانکۆی کشتوکاڵی چین China Agricultural University.
+### زانکۆ تایبەتمەندەکان
+تەرکیز دەکەنە سەر بوارە دیاریکراوەکان وەک تەکنەلۆژیا، پزیشکی، کشتوکاڵ، یان ئابووری. ئەم زانکۆیانە ڕاهێنانی تایبەتمەند لە بوارەکانی خۆیاندا پێشکەش دەکەن. نموونەکان بریتین لە زانکۆی تەکنەلۆژیای پەکینBeijing University of Technology و زانکۆی کشتوکاڵی چین China Agricultural University.
 
 ### زانکۆ تایبەتەکان (کەرتی تایبەت)
 - 757 دامەزراوەی تایبەت هەن لە چین، لەوانە 257 کۆلێژی سەربەخۆ. ئەم دامەزراوانە زۆرجار تەرکیز دەکەنە سەر بوارە تایبەتەکان و نەرمترن لە دیزاینکردنی پڕۆگرامەکانیان.
