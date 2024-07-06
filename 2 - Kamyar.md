@@ -74,30 +74,13 @@
 
 
 
-## Language of instruction
-
-The language of instruction in Chinese universities varies:
-
-1. **Chinese-taught programs**: The majority of undergraduate programs are taught in Mandarin Chinese. International students are often required to pass the HSK (Hanyu Shuiping Kaoshi) Chinese proficiency test to enroll in these programs[3].
-
-2. **English-taught programs**: Many universities, especially at the graduate level, offer programs taught entirely in English. These are particularly common in fields like Business, Engineering, and International Relations[3].
-
-3. **Bilingual programs**: Some universities offer bilingual programs, where courses are taught in both Chinese and English[3].
-
-4. **Chinese language programs**: For international students who need to improve their Chinese language skills, universities offer intensive language courses. These can be taken before starting a degree program or concurrently with other studies[3].
-
-It's important to note that while English-taught programs are increasing, proficiency in Mandarin Chinese can significantly enhance the study experience and future career prospects in China. Many universities offer Chinese language support for international students throughout their studies[1][3].
-
-For Kurdish applicants, it's crucial to carefully research the language requirements of their chosen programs and universities. Some institutions may offer specific support or programs for international students, including language preparation courses.
-
-
 ## ٢.٤ زمانی خوێندن
 
 زمانی خوێندن دەگۆڕێت بەپێی پڕۆگرام و زانکۆ:
-### پڕۆگرامەکانی خوێندن بە زمانی چینی
+### پڕۆگرامەکانی خوێندن بە زمانی چینی [٣].
 - زۆربەی پڕۆگرامەکانی خوێندنی بەکالۆریۆس بە زمانی چینی دەخوێندرێن.
 - خوێندکاران پێویستە تاقیکردنەوەی HSK (تاقیکردنەوەی لێهاتوویی زمانی چینی) ئاستی 4 یان بەرزتر تێپەڕێنن.
-### پڕۆگرامەکانی خوێندن بە زمانی ئینگلیزی
+### پڕۆگرامەکانی خوێندن بە زمانی ئینگلیزی [٣].
 - بەتایبەتی لە ئاستی ماستەر و دکتۆرا و لە پڕۆگرامە نێودەوڵەتییەکان زۆر باون.
 -پێویستیان بە بەڵگەی لێهاتوویی زمانی ئینگلیزی هەیە (TOEFL، IELTS، هتد).
 
