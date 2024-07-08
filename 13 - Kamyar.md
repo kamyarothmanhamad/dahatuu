@@ -4,7 +4,6 @@
 
 چین دەرفەتی زۆری ڕاهێنانی پیشەیی بۆ قوتابیانی نێودەوڵەتی دەڕەخسێنێت:
 
-
 - **ڕاهێنانی ناو زانکۆ**: زۆربەی زانکۆکانی چین بەرنامەی ڕاهێنانی تایبەت بۆ قوتابیان پێشکەش دەکەن. ئەمانە دەتوانن وۆرکشۆپی پەرەپێدانی کارامەیی، سیمیناری پیشەیی، یان خولی فێربوونی زمانی چینی بن
 
 - **ڕاهێنانی کۆمپانیا**: هەندێک کۆمپانیای گەورەی چینی بەرنامەی ڕاهێنانی هاوینە یان کورتخایەن بۆ قوتابیانی نێودەوڵەتی پێشکەش دەکەن. ئەمە دەرفەتێکی باشە بۆ بەدەستهێنانی ئەزموونی کارکردن و ناسینی ژینگەی کاری چینی
@@ -12,7 +11,6 @@
 - **بەرنامەی گۆڕینەوەی کولتووری**: ئەم جۆرە بەرنامانە دەرفەت دەدەن بە قوتابیان بۆ ناسینی کولتووری چینی و پەرەپێدانی تواناکانیان لە بواری پەیوەندی نێودەوڵەتی.
 
 - **خولی زمانی چینی**: فێربوونی زمانی چینی کلیلێکی سەرەکییە بۆ سەرکەوتن لە بازاڕی کاری چین. زۆربەی زانکۆکان خولی چڕوپڕی زمانی چینی پێشکەش دەکەن.
-- 
 
 ## ١٣.٢ تۆڕسازی لە چین
 
@@ -44,15 +42,19 @@
 
 بە پەیڕەوکردنی ئەم ستراتیژیانە، قوتابیانی کورد دەتوانن زۆر باشتر خۆیان ئامادە بکەن بۆ دۆزینەوەی کار و سەرکەوتن لە بازاڕی کاری چین.
 
-
-# سەرچاوەکان:
-[1] https://ckb.wikipedia.org/wiki/%DA%86%DB%8C%D8%A7%DB%8C_%D8%A6%DB%8C%DA%A4%D8%B1%D8%B3%D8%AA
-[2] https://britishchamber.cn/young-professionals-development-programme-2022/
-[3] http://archive.gov.krd/mohe/mhe-krg.org/ku/node/3941.html
-[4] https://studyinchina.businessbecause.com/news/business-networking-china
-[5] https://www.estahbanaty.org/student-work-china/
+Citations:
+[1] https://www.wemakescholars.com/training-short-courses-scholarships-for-international-students-in-china
+[2] https://www.china-scholar.com/international-students-into-entrepreneurship-in-china-ultimate-guide/
+[3] https://www.china-scholar.com/career-opportunities-and-global-connections-for-international-students-in-china/
+[4] https://www.shortcoursesportal.com/countries/105/china.html
+[5] https://lucas-edu.cn/news/6863.html
 [6] https://www.hiredchina.com/articles/finding-a-job-in-china-for-international-students/
-[7] https://www.xendan.org/detailnews.aspx?babet=1&jimare=155754&relat=1024
-[8] https://www.china-briefing.com/news/chinas-vocational-training-industry-opportunities-for-foreign-investment/
-[9] https://www.china-scholar.com/career-opportunities-and-global-connections-for-international-students-in-china/
-[10] https://thepienews.com/chinas-job-market-a-new-haven-for-international-students-graduates/
+[7] https://www.china-admissions.com/beijing-union-university/programs/chinese-programs/short-term/
+[8] https://studyinchina.businessbecause.com/news/business-networking-china
+[9] https://thepienews.com/chinas-job-market-a-new-haven-for-international-students-graduates/
+[10] https://www.hotcoursesabroad.com/study/training-degrees/china/education-and-training-courses/loc/39/cgory/o-2/sin/ct/programs.html
+[11] https://www.panda-admission.com/blog/16/
+[12] https://www.linkedin.com/pulse/everything-you-need-know-how-find-job-china-foreigner-careerpond
+[13] https://is.nwsuaf.edu.cn/home/admissions/chinesetrainingprogram/324495.htm
+[14] https://www.linkedin.com/pulse/networking-101-how-international-students-can-start-f1-hire
+[15] https://www.fhsu.edu/career/international-students/china.pdf
