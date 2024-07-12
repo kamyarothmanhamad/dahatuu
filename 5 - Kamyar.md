@@ -5,9 +5,9 @@
 تێچووی خوێندن و ژیان لە چین بە بەراورد لەگەڵ زۆربەی وڵاتانی پێشکەوتوو کەمترە، بەڵام جیاوازی هەیە بەپێی زانکۆ و شار:
 
 ****کرێی خوێندن****:
-- بەگشتی لە نێوان ٣,٣٠٠ تا ٩,٩٠٠ دۆلاری ئەمریکی ساڵانە[5].
-- زانکۆ بەناوبانگەکان وەک پەکین و تسینگهوا نزیکەی ٤,٥٠٠ دۆلار ساڵانە[1].
-- زانکۆ هەرزانترەکان وەک بۆهای و چەنگدو لە ٢,٠٠٠ تا ٢,٥٠٠ دۆلار ساڵانە[1].
+- بەگشتی لە نێوان ٣,٣٠٠ تا ٩,٩٠٠ دۆلاری ئەمریکی ساڵانە.
+- زانکۆ بەناوبانگەکان وەک پەکین و تسینگهوا نزیکەی ٤,٥٠٠ دۆلار ساڵانە.
+- زانکۆ هەرزانترەکان وەک بۆهای و چەنگدو لە ٢,٠٠٠ تا ٢,٥٠٠ دۆلار ساڵانە.
 
 ****تێچووی ژیان****:
 - بەگشتی مانگانە لە نێوان ٣٠٠ تا ١,٠٠٠ دۆلار، بەپێی شار و شێوازی ژیان.
@@ -50,10 +50,10 @@
 
 یاساکانی کارکردنی قوتابیانی نێودەوڵەتی لە چین:
 
-- قوتابیان ڕێگەپێدراون بەشداری لە بەرنامەکانی کار-خوێندن بکەن، بەڵام نابێت کاری تەواوەتی یان نیوە-دەوام بکەن[3].
-- پێویستە ڕەزامەندی زانکۆ و دەزگای کۆچبەری وەربگیرێت[3].
-- لە کاتی خوێندندا، نابێت زیاتر لە ٦ کاتژمێر لە هەفتەیەکدا کار بکرێت[3].
-- لە پشووی هاوین و زستاندا، دەکرێت تا ١٢ کاتژمێر لە هەفتەیەکدا کار بکرێت[3].
+- قوتابیان ڕێگەپێدراون بەشداری لە بەرنامەکانی کار-خوێندن بکەن، بەڵام نابێت کاری تەواوەتی یان نیوە-دەوام بکەن.
+- پێویستە ڕەزامەندی زانکۆ و دەزگای کۆچبەری وەربگیرێت.
+- لە کاتی خوێندندا، نابێت زیاتر لە ٦ کاتژمێر لە هەفتەیەکدا کار بکرێت.
+- لە پشووی هاوین و زستاندا، دەکرێت تا ١٢ کاتژمێر لە هەفتەیەکدا کار بکرێت.
 - کارکردن لە بواری ڕادیۆ، فیلم، تەلەفزیۆن یان شوێنە گشتییەکان ڕێگەپێنەدراوە[3].
 
 ### ٥.٤ بەڕێوەبردنی پارە لە چین
@@ -72,19 +72,3 @@
 
 بە گشتی، ژیان و خوێندن لە چین بەراورد بە زۆر وڵاتی تر هەرزانترە، بەڵام پێویستە بە وردی پلان دابنێیت و لە دەرفەتەکانی یارمەتی دارایی ئاگادار بیت.
 
-Citations:
-[1] https://www.china-admissions.com/chinese-university-tuition-fees/
-[2] https://english.www.gov.cn/statecouncil/ministries/202208/31/content_WS630eb254c6d0a757729df730.html
-[3] https://chinalawhelp.com/part-time-jobs-internships-for-foreigners-in-china/
-[4] https://www.investopedia.com/articles/investing/072815/how-does-china-manage-its-money-supply.asp
-[5] https://www.digiedupro.com/tuition-fees-and-living-costs-for-an-international-students-in-china/
-[6] https://www.tsinghua.edu.cn/en/Admissions/International_Students1/Financial_Aid.htm
-[7] https://www.china-admissions.com/blog/jan-12-2022-updated-policy-for-foreign-students-working-in-china/
-[8] https://www.hsbc.com.cn/en-cn/financial-wellbeing/creating-a-budget/
-[9] https://www.universityworldnews.com/post.php?story=20230608092957840
-[10] https://www.chinadaily.com.cn/a/202208/31/WS630ebb6aa310fd2b29e75264.html
-[11] https://cltchighereducation.com/new-part-time-working-rules-in-china-for-international-students/
-[12] https://www.youtube.com/watch?v=ms1nTeFO7ps
-[13] https://www.mastersportal.com/articles/1587/study-abroad-in-china-all-you-need-to-know-about-tuition-and-living-costs.html
-[14] https://uscet.org/china-opportunity-scholarships/
-[15] https://www.panda-admission.com/blog/992/
